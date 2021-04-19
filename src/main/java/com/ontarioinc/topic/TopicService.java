@@ -1,4 +1,4 @@
-package com.ontarioinc.rest;
+package com.ontarioinc.topic;
 
 import java.util.ArrayList;
 import java.util.List;
